@@ -1,0 +1,4 @@
+- 👋ola,meu nome e **@luizolliveira**, seja bem vindo ao meu perfil 
+- :+1:meu email de contato e [email](luiz.drula.oliveira@escola.pr.gov.br)
+-  👀 eu estou interessado em aprender a programar 
+- 🌱 estou aprendendo a programar 
